@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SecDedup</string>
+    <string name="AppLongName">Secure Deduplication</string>
+    <string name="secdedup_settings">Application Settings</string>
+    <string name="strDefaultDedupLevel">1</string>  
+    <string name="strZeroTime">00:00:00</string>
+    <string name="strZero">0</string>
+    <string name="strZeroPrct">0%</string>
+    <string name="strKB">KB</string>
+    <string name="strDedup1">File Deduplication</string>
+    <string name="strDedup2">Fixed size Block</string>
+    <string name="strDedup3">Variable size block</string>
+    <string name="strStartTime">Start Time</string>
+    <string name="strEndTime">Finish Time</string>
+    <string name="strTotalFiles">Total Files</string>
+    <string name="strProcFiles">Processed Files</string>
+    <string name="strChuncks">Chuncks</string>
+    <string name="strDupChuncks">Dup. chuncks</string>
+    <string name="strTotalSize">Total Size</string>
+    <string name="strUploaded">Uploaded</string>
+    <string name="strCharging">Charging</string>
+    <string name="strBattery">Battery</string>
+    <string name="strBatStrart">Initial</string>
+    <string name="strBatEnd">Final</string>
+    <string name="strBatDif">Comsumption</string>  
+    <string name="strDevice">Device</string>
+    <string name="strOSVer">OS Version</string>
+    <string name="strDedupLevel">Deduplication Type</string>
+    <string name="strNetworkType">Network Type</string>
+    <string name="strNoNetwork">Not Connected</string>
+    <string name="strStart">Start</string>
+    <string name="strCancel">Cancel</string>
+    <string name="msg_DatasetNotPresent">Dataset to test is missing</string>
+    <string name="msg_BatCharging">Battery is charging</string>
+    <string name="msg_ServerNotFound">Server not Found</string>   
+    <string name="msg_NoNetwork">No Network Connection Available</string>
+    <string name="msg_IO_Error">Communications Error</string>
+    <string name="msg_NoServer">Server address not defined</string><string name="strServer">Server Address</string>
+    <string name="strNoServer">Not defined</string>
+    <string name="led">*</string>
+    <string name="pref_Server">Server</string>
+    <string name="pref_Server_Summary">Server Address</string>
+    <string name="pref_app_config">Application Configuration</string>
+    <string name="pref_RunMode">Run Mode</string>
+    <string name="pref_RunMode_Summary">Select the run mode</string>
+    <string name="strRunMode1">Full</string>
+    <string name="strRunMode2">Diferential</string>
+    <string name="strRunMode3">Dray</string>
+    
+    
+</resources>

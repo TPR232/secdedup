@@ -1,0 +1,17 @@
+package com.example.secdedup;
+
+import android.os.Bundle;
+import android.preference.PreferenceActivity;
+
+public class SecDedupSettings extends PreferenceActivity {
+	
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+ 
+        addPreferencesFromResource(R.xml.settings);
+ 
+    }
+
+
+}

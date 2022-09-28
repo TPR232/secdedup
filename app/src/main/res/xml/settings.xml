@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <PreferenceCategory android:title="@string/pref_app_config" >
+        <EditTextPreference
+                android:title="@string/pref_Server"
+                android:summary="@string/pref_Server_Summary"
+                android:key="prefServer"/>
+        <ListPreference 
+            	android:defaultValue="1" 
+            	android:key="prefRunMode" 
+            	android:entryValues="@array/runModeValues" 
+            	android:entries="@array/runModeNames" android:summary="@string/pref_RunMode_Summary" android:title="@string/pref_RunMode"/>
+    </PreferenceCategory>
+    
+
+</PreferenceScreen>

@@ -1,0 +1,14 @@
+
+    <resources>
+        <color name="bakgroundColor1">#0db2c6</color>
+        <color name="bakgroundColor2">#b82d0d</color>
+        <color name="foregroundColor1">#0e0e66</color>
+        <color name="foregroundColor2">#ffffff</color>
+        <color name="labelColor">#888888</color>
+        <color name="valColor">#0e0e66</color>
+<color name="purple_700">#FF3700B3</color>
+<color name="purple_200">#CE93D8</color>
+<color name="teal_200">#80CBC4</color>
+<color name="black">#FF000000</color>
+
+    </resources>
